@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Amita&family=Poppins&display=swap'); */
+
+
+.header-color {
+
+    background-color: rgb(107, 128, 139);
+
+}
+
+.text-logo{
+    font-family: 'Amita', serif;
+}
+
+.brand-text-One{
+    color: rgb(246, 255, 0);
+}
+.brand-text {
+    color: rgba(246, 40, 25, 0.711);
+}
+
+.anchor-color {
+    /* color: rgb(253, 255, 253); 
+    font-size: 22px; */
+    /* WAITING FOR JS  */
+}
