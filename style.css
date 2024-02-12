@@ -34,3 +34,7 @@
 .page-primary-color {
     background-color: rgb(118, 130, 119);
 }
+
+.mt-n1 {
+    margin-top: -0.25rem !important;
+  }
