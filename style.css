@@ -24,6 +24,12 @@
     /* WAITING FOR JS  */
 /* } */
 
+.hover:hover {
+    color: rgb(237, 229, 16);
+    border-bottom: 1px solid;
+}
+
+
 
 .page-primary-color {
     background-color: rgb(118, 130, 119);
